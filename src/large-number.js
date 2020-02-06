@@ -1,3 +1,4 @@
+// 测试重复引入是否删除
 import getStrNumber from './getStrNumber.js';
 
 /** 
